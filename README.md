@@ -1,5 +1,5 @@
 
-# Bruce Weir Summer Institute in Statistical Genetics (SISG 2024)
+# Bruce Weir Summer Institute in Statistical Genetics (SISG)
 
 ## [Module 4 - Health Disparities Research](https://sisg.biosciences.gatech.edu/sisg-module-4/)
 
