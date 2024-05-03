@@ -4,15 +4,15 @@ Theoretical background lectures will be paired with practical lab sessions, usin
 
 **Learning Objectives:** After attending this module, participants will be able to: 
 
-    + Understand how health disparities are defined and characterized. 
++ Understand how health disparities are defined and characterized. 
 
-    + Understand the conceptual relationships and differences between race, ethnicity, and ancestry. 
++ Understand the conceptual relationships and differences between race, ethnicity, and ancestry. 
 
-    + Quantify health outcomes and disparities using biobank electronic health record data.
++ Quantify health outcomes and disparities using biobank electronic health record data.
 
-    + Model the associations of genetic and socioenvironmental risk factors with health outcomes and disparities. 
++ Model the associations of genetic and socioenvironmental risk factors with health outcomes and disparities. 
 
-    + Infer genetic ancestry from genomic variant data. 
++ Infer genetic ancestry from genomic variant data. 
 
-    + Model the associations of genetic ancestry with health outcomes and disparities.
++ Model the associations of genetic ancestry with health outcomes and disparities.
 
