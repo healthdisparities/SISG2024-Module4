@@ -1,3 +1,8 @@
+
+# Bruce Weir Summer Institute in Statistical Genetics (SISG)
+
+## SISG MODULE 4 - Health Disparities Research
+
 Health disparities are defined as health differences that adversely affect socially disadvantaged populations.  This new module is designed to introduce the theory and practice underlying an approach to health disparities research focused on both genetic and socioenvironmental risk factors. 
 
 Theoretical background lectures will be paired with practical lab sessions, using Jupyter notebook, R, Python, and various bioinformatics applications to analyze heterogenous biobank data.  Students will be provided with a conceptual foundation on how health disparities are defined and characterized, and they will use biobank demographic and electronic health record data to quantify health outcomes and disparities.  The module will emphasize genetic ancestry inference as a means to decompose genetic and socioenvironmental contributions to health disparities, covering admixture regression and admixture mapping techniques used to associate ancestry with health outcomes. 
