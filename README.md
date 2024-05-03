@@ -1,7 +1,7 @@
 
-# Bruce Weir Summer Institute in Statistical Genetics (SISG)
+# Bruce Weir Summer Institute in Statistical Genetics (SISG 2024)
 
-## Module 4 - Health Disparities Research
+## [Module 4 - Health Disparities Research](https://sisg.biosciences.gatech.edu/sisg-module-4/)
 
 Health disparities are defined as health differences that adversely affect socially disadvantaged populations.  This new module is designed to introduce the theory and practice underlying an approach to health disparities research focused on both genetic and socioenvironmental risk factors. 
 
