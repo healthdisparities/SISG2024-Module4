@@ -1,3 +1,5 @@
+All quantitative and statistical analyses can be performed using data provided (see Data folder for each Session) using R and various bioinformatics applications run in Jupyter Notebook.
+
 1. R version 4.4 (or higher)<br>
    a. Windows installation - https://cran.r-project.org/bin/windows/base/<br>
    b. Mac installation <br>
