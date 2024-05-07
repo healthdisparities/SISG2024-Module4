@@ -15,6 +15,22 @@ Theoretical background lectures will be paired with practical lab sessions, usin
 
 + Please see pre-requisites folder for instructions on how to install R and Jupyter Notebooks on Windows or Mac laptops. 
 
+### Statistical Methods:
+
+Quantitative and statistical methods that will be covered in this module include:
+
++ Computational phenotyping with electronic health record data
+  
++ Age- and sex-adjusted disease prevalence estimation
+
++ Multivariable regression
+
++ Linear and logistic regression
+
++ Genetic diversity and population structure inference
+
++ Genetic ancestry inference
+
 ### Learning Objectives:
 
 After attending this module, participants will be able to: 
@@ -31,21 +47,7 @@ After attending this module, participants will be able to:
 
 + Model the associations of genetic ancestry with health outcomes and disparities
 
-### Statistical Methods:
 
-Quantitative and statistical methods that will be covered in this module include:
-
-+ Computational phenotyping with electronic health record data
-  
-+ Age- and sex-adjusted disease prevalence estimation
-
-+ Multivariable regression
-
-+ Linear and logistic regression
-
-+ Genetic diversity and population structure inference
-
-+ Genetic ancestry inference
 
 
 
