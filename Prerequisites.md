@@ -1,14 +1,14 @@
 All quantitative and statistical analyses can be performed using data provided (see Data folder for each Session) using R and various bioinformatics applications run in Jupyter Notebook.
 
-1. R version 4.4 (or higher)<br>
+R version 4.4 (or higher)<br>
    a. Windows installation - https://cran.r-project.org/bin/windows/base/<br>
    b. Mac installation <br>
 
-2. Tidyverse R package - https://www.tidyverse.org/
+Tidyverse R package - https://www.tidyverse.org/
 
-3. Jupyter Notebook - https://jupyter.org/install<br>
+Jupyter Notebook - https://jupyter.org/install<br>
    a. Windows installation - https://www.geeksforgeeks.org/install-jupyter-notebook-in-windows/<br>
    b. Mac installation <br>
 
-4. Installing R kernel on Jupyter Notebooks - https://docs.anaconda.com/free/navigator/tutorials/r-lang/
+Installing R kernel on Jupyter Notebooks - https://docs.anaconda.com/free/navigator/tutorials/r-lang/
 
