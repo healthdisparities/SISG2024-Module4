@@ -11,7 +11,7 @@ Theoretical background lectures will be paired with practical lab sessions, usin
 
 After attending this module, participants will be able to: 
 
-+ Understand how health disparities are defined and characterized. 
++ Understand how health disparities are defined, quantified, and characterized. 
 
 + Understand the conceptual relationships and differences between race, ethnicity, and ancestry. 
 
@@ -23,3 +23,10 @@ After attending this module, participants will be able to:
 
 + Model the associations of genetic ancestry with health outcomes and disparities.
 
+### Statistical Methods:
+
+Quantitative and statistical methods that will be covered in this module include:
+
++ Understand how health disparities are defined, quantified, and characterized.
+
++ Understand how health disparities are defined, quantified, and characterized. 
