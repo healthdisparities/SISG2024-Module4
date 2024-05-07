@@ -25,7 +25,7 @@ Quantitative and statistical methods that will be covered in this module include
 
 + Multivariable disease modeling with linear and logistic regression
 
-+ Genetic diversity and population structure inference
++ Genetic diversity and population structure characterization
 
 + Genetic ancestry inference
 
