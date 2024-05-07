@@ -7,6 +7,14 @@ Health disparities are defined as health differences that adversely affect socia
 
 Theoretical background lectures will be paired with practical lab sessions, using Jupyter notebook, R, Python, and various bioinformatics applications to analyze heterogenous biobank data.  Students will be provided with a conceptual foundation on how health disparities are defined and characterized, and they will use biobank demographic and electronic health record data to quantify health outcomes and disparities.  The module will emphasize genetic ancestry inference as a means to decompose genetic and socioenvironmental contributions to health disparities, covering admixture regression and admixture mapping techniques used to associate ancestry with health outcomes. 
 
+### Pre-requisites:
+
++ Students are required to bring their own laptops for computer lab sessions.
+
++ Quantative and statistical analyses will be conducted in R using Jupyter Notebook.
+
++ Please see pre-requisites folder for instructions on how to install R and Jupyter Notebooks on Windows or Mac laptops. 
+
 ### Learning Objectives:
 
 After attending this module, participants will be able to: 
