@@ -27,6 +27,18 @@ After attending this module, participants will be able to:
 
 Quantitative and statistical methods that will be covered in this module include:
 
-+ Understand how health disparities are defined, quantified, and characterized.
++ Computational phenotyping with electronic health record data
+  
++ Age- and sex-adjusted disease prevalence estimation
 
-+ Understand how health disparities are defined, quantified, and characterized. 
++ Multivariable regression
+
++ Linear and logistic regression
+
++ Genetic diversity and population structure inference
+
++ Genetic ancestry inference
+
+
+
+ 
