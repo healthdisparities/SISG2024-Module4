@@ -23,9 +23,7 @@ Quantitative and statistical methods that will be covered in this module include
   
 + Age- and sex-adjusted disease prevalence estimation
 
-+ Multivariable regression
-
-+ Linear and logistic regression
++ Multivariable disease modeling with linear and logistic regression
 
 + Genetic diversity and population structure inference
 
