@@ -17,7 +17,7 @@ After attending this module, participants will be able to:
 
 + Quantify health outcomes and disparities using biobank electronic health record data.
 
-+ Model the associations of genetic and socioenvironmental risk factors with health outcomes and disparities. 
++ Model the associations of social determinants of health and genetic risk factors with health outcomes and disparities. 
 
 + Infer genetic ancestry from genomic variant data. 
 
