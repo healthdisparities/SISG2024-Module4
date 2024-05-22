@@ -34,6 +34,16 @@ https://github.com/geomarker-io/dep_index
    - https://www.census.gov/programs-surveys/sipp.html
    - SIPP is a nationally representative longitudinal survey that provides comprehensive information on the dynamics of income, employment, household composition, and government program participation.
    - SIPP is also a leading source of data on economic well-being, family dynamics, education, wealth, health insurance, child care, and food security.
+7. National Household Education Surveys Program (NHES)
+   - https://nces.ed.gov/nhes/
+   - Survey program run by the National Center for Education Statistics
+   - Collects nationally representative, descriptive data on the educational activities of children and families in the United States.
+   - The current NHES topics are early childhood care and education, family involvement in schools, and homeschooling.
+8. Current Population Survey (CPS)
+   - https://www.census.gov/programs-surveys/cps.html
+   - Survey run by the US Census Bureau
+   - Nationally representative monthly survey that obtains information from 50,000 households.
+   - The main purpose of the CPS is to provide estimates of employment, unemployment, and other characteristics of the general labor force.
   
 ## Coding Resources
 ### R resources
