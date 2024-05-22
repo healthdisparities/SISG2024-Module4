@@ -39,3 +39,7 @@ https://github.com/geomarker-io/dep_index
 ### R resources
 - R Cheat Sheet
    - https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf
+- ggplot Cheat Sheet
+   - https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf
+- Better data visualization
+  - https://github.com/cxli233/FriendsDontLetFriends
