@@ -34,3 +34,8 @@ https://github.com/geomarker-io/dep_index
    - https://www.census.gov/programs-surveys/sipp.html
    - SIPP is a nationally representative longitudinal survey that provides comprehensive information on the dynamics of income, employment, household composition, and government program participation.
    - SIPP is also a leading source of data on economic well-being, family dynamics, education, wealth, health insurance, child care, and food security.
+  
+## Coding Resources
+### R resources
+- R Cheat Sheet
+   - https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf
