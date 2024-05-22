@@ -11,5 +11,26 @@ https://www.nimhd.nih.gov/about/strategic-plan/nih-strategic-plan-definitions-an
 https://github.com/geomarker-io/dep_index
 
 ## Nationally Representative Databases
-NHANES
-ACS
+1. American Community Survey (ACS)
+   - https://www.census.gov/programs-surveys/acs
+   - The ACS is a survey run by the US Census Bureau
+   - Randomly selected sample of 3.5 million addresses, intended to be representative of the US population
+   - Households, education, marital status, economic characteristics, income, health insurance, housing characteristics, demographics
+2. National Health and Nutrition Examination Survey (NHANES)
+   - https://wwwn.cdc.gov/nchs/nhanes/Default.aspx
+   - The NHANES is a survey run by the CDC.
+   - Nationally representative longitudinal survey that provides comprehensive information on the dynamics of income, employment, household composition, and government program participation
+3. General Social Survey
+   - https://gss.norc.org/
+   - Nationally representative survey of adults in the United States conducted since 1972
+   - Standard core of demographic, behavioral, and attitudinal questions, plus topics of special interest. Among the topics covered are civil liberties, crime and violence, intergroup tolerance, morality, national spending priorities, psychological wellbeing, social mobility, and stress and traumatic events
+4. Dempographic and Health Surveys (DHS)
+   - https://dhsprogram.com/
+   -  Nationally representative population-based surveys with large sample sizes (usually between 5,000 and 30,000 households)
+5. Public Use Microdata Sample (PUMS)
+   - https://www.census.gov/programs-surveys/acs/microdata.html
+   - Individual level microdata from the ACS. Row level individual level data.
+6. Survey of Income and Program Participation (SIPP)
+   - https://www.census.gov/programs-surveys/sipp.html
+   - SIPP is a nationally representative longitudinal survey that provides comprehensive information on the dynamics of income, employment, household composition, and government program participation.
+   - SIPP is also a leading source of data on economic well-being, family dynamics, education, wealth, health insurance, child care, and food security.
