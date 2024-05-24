@@ -10,7 +10,7 @@ Instructions for installing R and Jupyter on Windows or Mac laptops can be found
 
 3. Jupyter Notebook - https://jupyter.org/install<br>
    a. Windows installation - https://www.geeksforgeeks.org/install-jupyter-notebook-in-windows/<br>
-   b. Mac installation - Via Homebrew: https://formulae.brew.sh/cask/jupyterlab<br>
+   b. Mac installation - Via [Homebrew](https://brew.sh/): https://formulae.brew.sh/cask/jupyterlab<br>
 
 4. Installing R kernel on Jupyter Notebooks - https://docs.anaconda.com/free/navigator/tutorials/r-lang/
 
