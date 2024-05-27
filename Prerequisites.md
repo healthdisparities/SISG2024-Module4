@@ -15,7 +15,7 @@ All of the quantitative and statistical analyses for SISG2024-Module4 will be pe
      + Windows system might run into unexpected errors; [this website](https://crib.utwente.nl/manual/pages/jupyterlab-install-guide/index.html) offers a nice & guided step-by-step process for installation.
 
  2. Conda is another friendly way of getting things up and running
-   + Please look at the file @Conda-Spec-File.txt and use the command `conda create --name sisg-module4 --file Conda-Spec-File.txt` followed by `conda activate sisg-module4`
+   + Please look at the [Conda Specification File](CondaEnvironment.txt) and use the command `conda create --name sisg-module4 --file Conda-Spec-File.txt` followed by `conda activate sisg-module4`
    + From here, you can run jupyter lab using the command `jupyter lab` in your terminal.
  
 
