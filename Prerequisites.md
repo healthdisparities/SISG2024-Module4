@@ -35,6 +35,7 @@ We strongly recommend working on Jupyter based engine, nevertheless, the scripts
         install.packages('stringr')
         install.packages('ggplot2')
         install.packages("tidyverse")
+        install.packages("mediation")
         ```
    + We also plan on using some non-CRAN packages. Please install these as well:
         ```
