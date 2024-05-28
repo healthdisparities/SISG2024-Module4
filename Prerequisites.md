@@ -15,11 +15,12 @@ All of the quantitative and statistical analyses for SISG2024-Module4 will be pe
    + Windows system
      + Windows x64 installer file can be obtained from [here](https://github.com/jupyterlab/jupyterlab-desktop?tab=readme-ov-file#installation)
      + Windows system might run into unexpected errors; [this website](https://crib.utwente.nl/manual/pages/jupyterlab-install-guide/index.html) offers a nice & guided step-by-step process for installation.
-  + If you have juyterlab running, please got to step 2.3 to get IRKernel set up. 
+  + If you have Jupyter Lab running, please got to step 2.3 to get IRKernel set up. 
 
  2.2 **Approach 2** Conda is another friendly way of getting things up and running
    + Please look at the [Conda Specification File](CondaEnvironment.txt) and use the command `conda create --name sisg-module4 --file CondaEnvironment.txt` followed by `conda activate sisg-module4`
       + From here, you can run Jupyter Lab using the command `jupyter lab` in your terminal.
+        
  2.3 Getting R kernel set up
    + By default, jupyter lab comes with a Python kernel and not the R kernel. We need to get an R kernel set up in our Jupyter Lab
    + Open R session inside the conda environment. You can open a terminal in Jupyter Lab and type `R` there.
