@@ -14,6 +14,7 @@ https://www.nimhd.nih.gov/about/strategic-plan/nih-strategic-plan-definitions-an
    - https://www.cdc.gov/healthequity/index.html
 - CDC Research Summary: Social Determinants of Health
    - https://www.cdc.gov/public-health-gateway/php/data-research/index.html
+   - https://www.youtube.com/watch?v=u_IoBt7Nicw
 - All of Us Social Determinants of Health Survey
    - https://www.researchallofus.org/data-tools/survey-explorer/social-determinants-survey/
 - Examining Neighborhood Social Cohesion in the Context of Community-based Participatory Research: Descriptive Findings from an Academic-Community Partnership
