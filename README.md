@@ -13,7 +13,7 @@ Theoretical background lectures will be paired with practical lab sessions, usin
 
 + Quantative and statistical analyses will be conducted in R using Jupyter Notebook.
 
-+ Please see pre-requisites folder for instructions on how to install R and Jupyter Notebooks on Windows or Mac laptops. 
++ You can get set up for the class using the [prerequisite file here](Prerequisites.md).
 
 ### Statistical Methods:
 
