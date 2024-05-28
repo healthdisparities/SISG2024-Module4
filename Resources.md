@@ -3,12 +3,44 @@
 ## NIMHD Health Disparities Definitions
 https://www.nimhd.nih.gov/about/strategic-plan/nih-strategic-plan-definitions-and-parameters.html
 
-## Social Determinants of Health
+## Social Determinants of Health (SDOH)
+- Social Determinants of Health Definitions
+   - https://health.gov/healthypeople/priority-areas/social-determinants-health
+- World Health Organizations (WHO) SDOH Definitions
+   - https://www.who.int/health-topics/social-determinants-of-health#tab=tab_1
+- Evaluating Strategies For Reducing Health Disparities By Addressing The Social Determinants Of Health
+   - https://pubmed.ncbi.nlm.nih.gov/27503966/
+- CDC Health Equity Information
+   - https://www.cdc.gov/healthequity/index.html
+- CDC Research Summary: Social Determinants of Health
+   - https://www.cdc.gov/public-health-gateway/php/data-research/index.html
+- All of Us Social Determinants of Health Survey
+   - https://www.researchallofus.org/data-tools/survey-explorer/social-determinants-survey/
+- Examining Neighborhood Social Cohesion in the Context of Community-based Participatory Research: Descriptive Findings from an Academic-Community Partnership
+   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5684777/
 
 ## Socioeconomic Deprivation
+- The United States index of socioeconomic deprivation for individuals (USiDep)
+   - https://www.sciencedirect.com/science/article/pii/S2468171722000011#:~:text=Socioeconomic%20deprivation%20is%20more%20closely,people%20living%20in%20the%20US.
+- Social Deprivation Index (SDI)
+   - https://www.graham-center.org/maps-data-tools/social-deprivation-index.html
+- Area Deprivation Index
+   - https://www.nrpa.org/publications-research/data-and-mapping-resource-library/area-deprivation-index/
+- Socioeconomic Deprivation, Genetic Risk, and Incident Dementia
+   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10126314/
+- Socioeconomic Deprivation and Ancestry Influence Type 2 Diabetes Disparities
+   - https://www.nimhd.nih.gov/news-events/research-spotlights/socioeconomic-deprivation-influences-diabetes-disparities.html
+- Socioeconomic Deprivation: An Important, Largely Unrecognized Risk Factor in Primary Prevention of Cardiovascular Disease
+   - https://pubmed.ncbi.nlm.nih.gov/35748241/
+- Area-level social determinants of health and individual-level social risks: Assessing predictive ability and biases in social risk screening
+   - https://pubmed.ncbi.nlm.nih.gov/38229891/
+- Ancestry-attenuated effects of socioeconomic deprivation on type 2 diabetes disparities in the All of Us cohort
+   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10693462/
 
 ## Community Deprivation Index
 https://github.com/geomarker-io/dep_index
+- Material community deprivation and hospital utilization during the first year of life: an urban population-based cohort study
+   - https://pubmed.ncbi.nlm.nih.gov/30563729/
 
 ## Nationally Representative Databases
 1. American Community Survey (ACS)
