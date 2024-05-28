@@ -85,3 +85,5 @@ https://github.com/geomarker-io/dep_index
    - https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf
 - Better data visualization
   - https://github.com/cxli233/FriendsDontLetFriends
+- Essential Statistics with R: Cheat Sheet
+   - https://bioconnector.github.io/workshops/handouts/r-stats-cheatsheet.pdf
