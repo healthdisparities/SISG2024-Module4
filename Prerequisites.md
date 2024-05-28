@@ -45,3 +45,6 @@ We strongly recommend working on Jupyter based engine, nevertheless, the scripts
 ### 5. Helpful tutorials
 + Installing R kernel on Jupyter Notebooks - https://docs.anaconda.com/free/navigator/tutorials/r-lang/
 + NASA has a nice tutorial for getting R kernel set up in Jupyter Lab - https://www.nas.nasa.gov/hecc/support/kb/how-to-set-up-r-kernel-in-jupyter-lab_685.html
+
+### 6. Troubleshooting
+There is a possibility that commands and tutorials might not work successfully on your laptop. In this case, please look around for a TA in the classroom and they would be happy to help you.
