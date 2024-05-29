@@ -77,6 +77,9 @@ https://github.com/geomarker-io/dep_index
    - Survey run by the US Census Bureau
    - Nationally representative monthly survey that obtains information from 50,000 households.
    - The main purpose of the CPS is to provide estimates of employment, unemployment, and other characteristics of the general labor force.
+
+## Genetic Diversity and Human Equality
+- [Genetic Diversity & Human Equality](https://ftp.ncbi.nlm.nih.gov/pub/marino/teaching/Georgiatech/2024/1973-dobzhansky-geneticdiversityandhumanequality.pdf) by Theodosius Dobzhansky
   
 ## Coding Resources
 ### R resources
