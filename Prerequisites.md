@@ -18,6 +18,18 @@ All of the quantitative and statistical analyses for SISG2024-Module4 will be pe
   + If you have Jupyter Lab running, please got to step 2.3 to get IRKernel set up. 
 
  2.2 **Approach 2** Conda is another friendly way of getting things up and running
+   The easiest way to get *Conda* set up on your systems is by getting [Miniconda]() set up on your systems. Installations will differ depending on your systems. 
+   
+   + <img width="500" alt="Screenshot 2024-05-29 at 1 43 47 PM" src="https://github.com/healthdisparities/SISG2024-Module4/assets/14136915/8c569b90-bbf4-430b-a900-0d5abcae3f0c">
+
+   + Using the following commands on terminal (Mac/Windows/Linux), you should be able to install Miniconda on your system.
+     ```
+     curl -o Miniconda3-latest-MacOSX-arm64.sh 'https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh'
+     bash Miniconda3-latest-MacOSX-arm64.sh
+     ```
+     Follow along with the process, and feel free to ask a TA for any help. Once you have conda set up, you can duplicate the following environment to get set up.
+
+
    + Please look at the [Conda Specification File](CondaEnvironment.txt) and use the command `conda create --name sisg-module4 --file CondaEnvironment.txt` followed by `conda activate sisg-module4`
       + From here, you can run Jupyter Lab using the command `jupyter lab` in your terminal.
         
