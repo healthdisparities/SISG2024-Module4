@@ -1,0 +1,30 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --indep-pairwise 50 10 0.1
+  --out ../Data/Session8/1kgp_chr21_ldPruning
+  --vcf ../Data/Session8/ALL.chr21.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz
+
+Hostname: Shashwats-MacBook-Air.local
+Working directory: /Users/shashwat/Documents/SISG2024-Module4/Notebooks
+Start time: Thu May 30 23:19:29 2024
+
+Random number seed: 1717125569
+8192 MB RAM detected; reserving 4096 MB for main workspace.
+--vcf: ../Data/Session8/1kgp_chr21_ldPruning-temporary.bed +
+../Data/Session8/1kgp_chr21_ldPruning-temporary.bim +
+../Data/Session8/1kgp_chr21_ldPruning-temporary.fam written.
+1105538 variants loaded from .bim file.
+2504 people (0 males, 0 females, 2504 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ../Data/Session8/1kgp_chr21_ldPruning.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2504 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999787.
+1105538 variants and 2504 people pass filters and QC.
+Note: No phenotypes present.
+Pruned 238435 variants from chromosome 21, leaving 867103.
+Pruning complete.  238435 of 1105538 variants removed.
+Marker lists written to ../Data/Session8/1kgp_chr21_ldPruning.prune.in and
+../Data/Session8/1kgp_chr21_ldPruning.prune.out .
+
+End time: Thu May 30 23:20:19 2024

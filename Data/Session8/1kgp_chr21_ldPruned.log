@@ -1,0 +1,32 @@
+PLINK v1.90b7.2 64-bit (11 Dec 2023)
+Options in effect:
+  --extract 1kgp_chr21_ldPruning.prune.in
+  --make-bed
+  --out ../Data/Session8/1kgp_chr21_ldPruned
+  --vcf ../Data/Session8/ALL.chr21.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz
+
+Hostname: Shashwats-MacBook-Air.local
+Working directory: /Users/shashwat/Documents/SISG2024-Module4/Notebooks
+Start time: Thu May 30 23:20:31 2024
+
+Random number seed: 1717125631
+8192 MB RAM detected; reserving 4096 MB for main workspace.
+--vcf: ../Data/Session8/1kgp_chr21_ldPruned-temporary.bed +
+../Data/Session8/1kgp_chr21_ldPruned-temporary.bim +
+../Data/Session8/1kgp_chr21_ldPruned-temporary.fam written.
+1105538 variants loaded from .bim file.
+2504 people (0 males, 0 females, 2504 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ../Data/Session8/1kgp_chr21_ldPruned.nosex .
+--extract: 1105538 variants remaining.
+Warning: At least 867102 duplicate IDs in --extract file.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2504 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999787.
+1105538 variants and 2504 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to ../Data/Session8/1kgp_chr21_ldPruned.bed +
+../Data/Session8/1kgp_chr21_ldPruned.bim +
+../Data/Session8/1kgp_chr21_ldPruned.fam ... done.
+
+End time: Thu May 30 23:21:21 2024
