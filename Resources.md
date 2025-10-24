@@ -1,8 +1,5 @@
 # Online Resources for Health Disparities
 
-## NIMHD Health Disparities Definitions
-https://www.nimhd.nih.gov/about/strategic-plan/nih-strategic-plan-definitions-and-parameters.html
-
 ## Social Determinants of Health (SDOH)
 - Social Determinants of Health Definitions
    - https://health.gov/healthypeople/priority-areas/social-determinants-health
